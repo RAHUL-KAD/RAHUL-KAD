@@ -5,7 +5,7 @@
 - 💻 Currenly I am pursing B.Tech in Computer Sciecnce. Alongside with that I am *Computer Vision Intern at Wobot.ai.*
 - ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/rahuljkadam/)
 - 📘 Blog posts: https://kadamrahulj0909.medium.com/
-- 🌱 I’m currently learning: **Person re-identification using Simpson Network**
+- 🌱 I’m currently learning: **How to Build END-TO-END ML application**
 - 👯 I’m looking to collaborate on: **NLP reseach paper**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAHUL-KAD" alt="seutao" /> </p>
