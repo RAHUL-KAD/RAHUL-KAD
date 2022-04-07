@@ -3,7 +3,7 @@
 
 
 - 💻 Currenly I am pursing B.Tech in Computer Sciecnce. Alongside with that I am *Computer Vision Intern at Wobot.ai.*
-- ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/rahuljkadam/)
+- ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/rahuljkadam/) [Twitter](https://twitter.com/rahul_jalindar) [Mail](kadamrahulj0909@gmail.com)
 - 📘 Blog posts: https://kadamrahulj0909.medium.com/
 - 🌱 I’m currently learning: **How to Build END-TO-END ML application**
 - 👯 I’m looking to collaborate on: **NLP reseach paper**
