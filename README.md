@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Enthusiastic</h3>
 
 
-- 💻 Currenly I am pursing B.Tech in Computer Sciecnce. Alongside with that I am *Computer Vision Intern at Wobot.ai.*
+- 💻 Currenly I am pursing B.Tech in Computer Sciecnce.
 - 🔭 My Portfolio: [Portfolio](https://rahulkadam.super.site/)
 - ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/rahuljkadam/) [Twitter](https://twitter.com/rahul_jalindar) [Mail](kadamrahulj0909@gmail.com)
 - 📘 Blog posts: https://kadamrahulj0909.medium.com/
