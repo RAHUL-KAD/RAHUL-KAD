@@ -2,12 +2,12 @@
 <h3 align="center">Machine Learning Enthusiastic</h3>
 
 
-- 💻 Currenly I am pursing B.Tech in Computer Sciecnce.
+- 💻 Building [MLAPI](https://visionapi.space/) : Free Machine Learning API platform 
 - 🔭 My Portfolio: [Portfolio](https://rahulkadam.super.site/)
-- ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/rahuljkadam/) [Twitter](https://twitter.com/rahul_jalindar) [Mail](kadamrahulj0909@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahuljkadam/) [Twitter](https://twitter.com/rahul_jalindar) [Mail](kadamrahulj0909@gmail.com)
 - 📘 Blog posts: https://kadamrahulj0909.medium.com/
-- 🌱 I’m currently learning: **How to build Self Driving Car**
-- 👯 I’m looking to collaborate on: **NLP reseach paper**
+- 🌱 I’m currently learning: **How to build a SAAS**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAHUL-KAD" alt="seutao" /> </p>
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
