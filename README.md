@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Enthusiastic</h3>
 
 
-- 💻 Building [Txtai](https://txtai.netlify.app/) : Content Moderation using Large Language models
+- 💻 Building [Emailapi](https://emailapi-dev.netlify.app/) : Content Moderation using Large Language models
 - 🔭 My Portfolio: [Portfolio](https://rahulkadam.super.site/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahuljkadam/) [Twitter](https://twitter.com/rahul_jalindar) [Mail](kadamrahulj0909@gmail.com)
 - 📘 Blog posts: https://kadamrahulj0909.medium.com/
