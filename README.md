@@ -13,7 +13,7 @@
 
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHUL-KAD&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[](https://tinypixel.pythonanywhere.com/pixel.gif?user-id=1a9a03db&page=github-user-profile)
+[Pixel Tracking](https://pixel.cyclic.app/pixel.gif?page=github-user)
 
 <!--
 **RAHUL-KAD/RAHUL-KAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
