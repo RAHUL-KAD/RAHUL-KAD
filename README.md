@@ -2,18 +2,16 @@
 <h3 align="center">Machine Learning Enthusiastic</h3>
 
 
-- 💻 Building [MLAPI](https://visionapi.space/)
 - 🔭 My Portfolio: [Portfolio](https://rahulkadam.super.site/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahuljkadam/) [Twitter](https://twitter.com/rahul_jalindar) [Mail](kadamrahulj0909@gmail.com)
 - 📘 Blog posts: https://kadamrahulj0909.medium.com/
-- 🌱 I’m currently learning: **How to build a SAAS**
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAHUL-KAD" alt="seutao" /> </p>
 
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHUL-KAD&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[Pixel Tracking](https://pixel.cyclic.app/pixel.gif?page=github-user)
 
 <!--
 **RAHUL-KAD/RAHUL-KAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
